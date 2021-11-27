@@ -1,0 +1,12 @@
+biodata diri :
+
+nama: anzaldi riyad al amari
+kelas: x rpl 2
+alamat: Graha rancamanyar jl. melati v no 10
+umur: 15
+hobby: main bola
+status:palajar
+cita-cita: pengusaha sukses
+sekolah: smk assalaam bandung
+
+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
